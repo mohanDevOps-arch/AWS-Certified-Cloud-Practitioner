@@ -1,5 +1,5 @@
-# AWS Solutions Architect Practice Questions
-## Complete Exam Preparation Guide
+# Architecture Practice Questions
+
 
 ---
 
